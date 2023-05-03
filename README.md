@@ -73,6 +73,12 @@ To use the web app, run the following command:
 In the colab enviroment open the demo.ipynb and run it.
 
 This will launch a local web server that you can access in your web browser.
+
+### Screenshots:
+![image](https://user-images.githubusercontent.com/76406095/235859949-ba71e07b-87c3-42ba-8a1e-b2c582d782ec.png)
+![image](https://user-images.githubusercontent.com/76406095/235860044-9fb13cc4-bdd0-4ec9-ae62-3c64dcf0eb96.png)
+![image](https://user-images.githubusercontent.com/76406095/235860113-499ed6db-9625-4b2d-9541-7e74da6a7f61.png)
+
 ## Conclusion
 
 In this project, we implemented and evaluated four different image captioning models. Based on the evaluation metrics, the BLIP model performed the best. Additionally, we created a web app targeted towards blind people that has a caption to speech output and VQA capability in addition to the model comparison.

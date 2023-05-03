@@ -23,7 +23,6 @@ You will also need to download the following data:
 
 Once you have installed the dependencies and downloaded the data, you can run the project by running the following command:
 
-css
 
    In the colab enviroment open the demo.ipynb and run it.
 
@@ -55,13 +54,6 @@ The models are evaluated based on the following metrics:
 
 ## Results
 ![image](https://user-images.githubusercontent.com/76406095/235854593-391a292b-cab1-41c3-80ea-2fb35f3c32fc.png)
-
-The results of the evaluation are as follows:
-Model	    BLEU-1	     BLEU-4	      CIDEr       SPICE
-BLIP	    -	         44.6	      142.8        29.5
-ViT-GPT2	0.771        0.291        1.118         -
-CLIP	    85.6         58.3         122.5        24.3
-CNN-LSTM	0.50         0.29         0.972         -
 
 Based on the evaluation metrics, the BLIP model performed the best.
 

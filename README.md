@@ -77,7 +77,7 @@ This will launch a local web server that you can access in your web browser.
 ### Screenshots:
 ![image](https://user-images.githubusercontent.com/76406095/235859949-ba71e07b-87c3-42ba-8a1e-b2c582d782ec.png)
 ![image](https://user-images.githubusercontent.com/76406095/235860044-9fb13cc4-bdd0-4ec9-ae62-3c64dcf0eb96.png)
-![image](https://user-images.githubusercontent.com/76406095/235860113-499ed6db-9625-4b2d-9541-7e74da6a7f61.png)
+![image](https://user-images.githubusercontent.com/76406095/236002465-735621ba-aff6-48c4-b60b-b26651893472.png)
 
 ## Conclusion
 

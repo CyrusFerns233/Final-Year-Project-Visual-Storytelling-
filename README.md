@@ -24,20 +24,20 @@ css
 
 python main.py
 
-Models
+## Models
 Model 1
 
 [Description of model 1]
-Model 2
+## Model 2
 
 [Description of model 2]
-Model 3
+## Model 3
 
 [Description of model 3]
-BLIP
+## CNN-LSTM
 
 [Description of BLIP model]
-Evaluation Metrics
+## Evaluation Metrics
 
 The models are evaluated based on the following metrics:
 
@@ -45,7 +45,7 @@ The models are evaluated based on the following metrics:
     [Metric 2]: [Explanation of metric 2]
     [Metric 3]: [Explanation of metric 3]
 
-Results
+## Results
 
 The results of the evaluation are as follows:
 Model	Metric 1	Metric 2	Metric 3
@@ -71,6 +71,6 @@ To use the web app, run the following command:
 python app.py
 
 This will launch a local web server that you can access in your web browser.
-Conclusion
+## Conclusion
 
 In this project, we implemented and evaluated four different image captioning models. Based on the evaluation metrics, the BLIP model performed the best. Additionally, we created a web app targeted towards blind people that has a caption to speech output and VQA capability in addition to the model comparison.
